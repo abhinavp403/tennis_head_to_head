@@ -12,6 +12,7 @@ I personally would spend an hour doing tons of research to find head to head sta
 Example of run:  
 Entry 1- Novak Djokovic  
 Entry 2- Rafael Nadal  
+
 Output-  
 Novak Djokovic {'matches-won': 29, 'sets-won': 77, 'games-won': 733, 'breakpts-won': 176, 'clean-sets': 0, 'straight-sets': 22, 'aces': 278, 'doublefaults': 87}  
 Rafael Nadal {'matches-won': 27, 'sets-won': 72, 'games-won': 709, 'breakpts-won': 161, 'clean-sets': 2, 'straight-sets': 15, 'aces': 157, 'doublefaults': 88}  
@@ -20,6 +21,7 @@ If the year is provided then,
 Entry 1- Novak Djokovic  
 Entry 2- Rafael Nadal  
 Year = 2019  
+
 Output-  
 Novak Djokovic {'matches-won': 1, 'sets-won': 4, 'games-won': 25, 'breakpts-won': 6, 'clean-sets': 0, 'straight-sets': 1, 'aces': 15, 'doublefaults': 1}  
 Rafael Nadal {'matches-won': 1, 'sets-won': 2, 'games-won': 24, 'breakpts-won': 6, 'clean-sets': 1, 'straight-sets': 0, 'aces': 3, 'doublefaults': 2}  
