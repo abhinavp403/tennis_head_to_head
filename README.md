@@ -9,6 +9,8 @@ Stats include- matches won, sets won, games won, break points won, clean sets (w
 Future plan is to make an Android app out of this script. The results of this script helps in betting and is designed to help players in drafting players in Draft King tennis tournaments. 
 I personally would spend an hour doing tons of research to find head to head stats. But now I can get these stats within a minute.
 
+Inputs include player names, surface (optional), year (optional)
+
 Example of run:  
 Entry 1- Novak Djokovic  
 Entry 2- Rafael Nadal  
